@@ -1,5 +1,4 @@
 [
-    {"label": "Button 1", "id": "button1"},
-    {"label": "Button 2", "id": "button2"},
-    {"label": "Button 3", "id": "button3"}
+    {"label": "Li Zixuan", "id": "button1"},
+    {"label": "Li Ziqian", "id": "button2"},
 ]
